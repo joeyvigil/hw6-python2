@@ -18,7 +18,7 @@ Points: 8
 Write a Python program that calculates movie ticket costs with different pricing.
 Requirements:
 Ask the user for their name and age
-Set ticket prices: 
+Set ticket prices:
 Child (under 13): $8
 Adult(13−64):$12
 Senior (65+): $9
@@ -42,6 +42,7 @@ Thank you for your purchase!
 ```
 
 ## Question 2: Restaurant Order System (Lesson 2 - If/Elif/Else)
+
 Points: 10
 Create a program that takes a restaurant order and calculates the bill based on menu choices.
 Requirements:
@@ -56,6 +57,7 @@ Calculate total with 8% tax
 Display itemized bill
 Create file: question2.py
 Example Output:
+
 ```txt
 === RESTAURANT MENU ===
 1. Pizza - $15.99
@@ -75,6 +77,7 @@ Total: $19.97
 ```
 
 ## Question 3: Pet Age Calculator (Lessons 1-2 Combined)
+
 Points: 12
 Create a program that converts human years to pet years for different animals.
 Requirements:
@@ -88,6 +91,7 @@ Hamster: Multiply by 25
 Display the converted age with a fun message
 Create file: question3.py
 Example Output:
+
 ```txt
 Enter pet type (dog/cat/bird/hamster): dog
 Enter your pet's age in human years: 5
@@ -109,7 +113,6 @@ Pet Age: 50 pet years
 Fun Fact: Your hamster is like a 50-year-old human!
 ```
 
-
 Getting Help
 If you get stuck:
 Review the lesson materials from lessons 1-2
@@ -118,4 +121,3 @@ Test your code frequently as you write it
 Ask questions during office hours or in class
 Remember to save your work frequently in VS Code
 Remember: The goal is to practice and learn. Focus on understanding the concepts.
-
